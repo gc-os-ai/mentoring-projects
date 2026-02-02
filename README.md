@@ -1,2 +1,3 @@
-# gsoc
-Google Summer of Code (GSoC) Material
+# Google Summer of Code
+
+# Sub Organizations
