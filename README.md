@@ -16,6 +16,7 @@ Please refer the following for a list of affiliated projects: https://gcos.ai/pr
 * [`pytorch-forecasting` project ideas 2026](https://github.com/sktime/mentoring/blob/main/internships/projects_2026.md#pytorch-forecasting-and-dsipts)
 * [`skpro` project ideas 2026](https://github.com/sktime/mentoring/blob/main/internships/projects_2026.md#skpro)
 * [`sktime` project ideas 2026](https://github.com/sktime/mentoring/blob/main/internships/projects_2026.md#sktime)
+* [`pyGAM` project ideas 2026](https://github.com/gc-os-ai/mentoring-projects/blob/main/2026/pyGAM.md)
 
 # Contributor Guides
 
