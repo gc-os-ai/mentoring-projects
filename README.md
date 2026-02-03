@@ -10,4 +10,4 @@ Please refer the following for a list of affiliated projects: https://gcos.ai/pr
 
 # Contributor Guide
 
-<TODO>: Add details for contributor guide here.
+TODO: Add details for contributor guide here.
