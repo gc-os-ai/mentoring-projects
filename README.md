@@ -12,7 +12,7 @@ Important: application guidelines may vary by sub-organizations or funding progr
 
 Please refer the following for a list of affiliated projects: https://gcos.ai/projects
 
-* [`pgmpy` project ideas 2026] (https://github.com/pgmpy/pgmpy/wiki/GSoC-2026)
+* [`pgmpy` project ideas 2026](https://github.com/pgmpy/pgmpy/wiki/GSoC-2026)
 * [`pytorch-forecasting` project ideas 2026](https://github.com/sktime/mentoring/blob/main/internships/projects_2026.md#pytorch-forecasting)
 * [`skpro` project ideas 2026](https://github.com/sktime/mentoring/blob/main/internships/projects_2026.md#skpro)
 * [`sktime` project ideas 2026](https://github.com/sktime/mentoring/blob/main/internships/projects_2026.md#sktime)
