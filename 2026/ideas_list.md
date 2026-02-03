@@ -5,3 +5,4 @@ in GSoC 2026. Please refer to the links for more details on each project and the
 * [`pytorch-forecasting` project ideas 2026](https://github.com/sktime/mentoring/blob/main/internships/projects_2026.md#pytorch-forecasting)
 * [`skpro` project ideas 2026](https://github.com/sktime/mentoring/blob/main/internships/projects_2026.md#skpro)
 * [`sktime` project ideas 2026](https://github.com/sktime/mentoring/blob/main/internships/projects_2026.md#sktime)
+* [`pyGAM` project ideas 2026](https://github.com/gc-os-ai/mentoring-projects/blob/main/2026/pyGAM.md)
